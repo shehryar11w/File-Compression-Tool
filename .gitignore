@@ -10,3 +10,5 @@
 *.exp
 *.def
 *.manifest
+config.bat
+node_modules
